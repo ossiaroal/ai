@@ -20,3 +20,6 @@
    ```
    npm run dev
    ```
+
+4. 访问 `http://localhost:3000/doll` 可体验简单的毛绒玩偶换装功能。
+
